@@ -1,0 +1,26 @@
+{
+  "target_gene_complete_summary_all_tissues.tsv": {
+    "sha256": "6506f69060154e1d0ed078f6fa90fed86b5fc32054467295f7a8bb5ef330f782",
+    "source_name": "target_gene_complete_summary_all_tissues.tsv"
+  },
+  "study_robustness_classification.tsv": {
+    "sha256": "c66205790c8c1b45ecf726f5adc4ace0c178029282e1e021921887af62f8ab6d",
+    "source_name": "study_robustness_classification.tsv"
+  },
+  "target_gene_integrated_with_ComBatSeq.tsv": {
+    "sha256": "bc1bcfa99dcf544b87d28ec79ffe207148735f073d4d862dde22000acd81829a",
+    "source_name": "target_gene_integrated_with_ComBatSeq.tsv"
+  },
+  "LOSO_target_summary_all_tissues.tsv": {
+    "sha256": "e4c47b3833c522757ac8f89741eb6cb2a9bf03f5857f34b3d1ebe10ce15a92cf",
+    "source_name": "LOSO_target_summary_all_tissues.tsv"
+  },
+  "within_study_target_effects_all_tissues.tsv": {
+    "sha256": "b484bdfc055e3f8f512bc311b1656ddb6184c8d56d04fa8d9e09a81eb0d0fb74",
+    "source_name": "within_study_target_effects_all_tissues.tsv"
+  },
+  "target_meta_analysis_all_tissues.tsv": {
+    "sha256": "3f069fe4c7c012737dd832d570e2d5e3b11a45c1ccefd0e13a89b21edcb7e10e",
+    "source_name": "target_meta_analysis_all_tissues.tsv"
+  }
+}
