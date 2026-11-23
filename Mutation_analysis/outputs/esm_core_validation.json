@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "random_cds_cases_compared_to_whole_sequence_legacy_implementation": 30,
+  "checks": [
+    "all-SNV unique-AA denominator",
+    "ROS nonoverlapping cross-codon events",
+    "stop/synonymous handling",
+    "inclusive threshold",
+    "missing-score rejection",
+    "CSV loading",
+    "sequence mismatch rejection"
+  ],
+  "scope": "Synthetic validation of recomputation functions; user ESM input files not supplied."
+}

@@ -1,0 +1,61 @@
+gene	category	figure_order	fraction	bar_top_pixel	bar_x_pixel	source
+GJE1	All SNV	0	0.0545454545454545	365	65	Figure5.png digitization; approximate; not raw ESM
+PANX2	All SNV	1	0.1324675324675324	315	86	Figure5.png digitization; approximate; not raw ESM
+CALHM4	All SNV	2	0.1574025974025973	299	106	Figure5.png digitization; approximate; not raw ESM
+CALHM3	All SNV	3	0.1745454545454545	288	127	Figure5.png digitization; approximate; not raw ESM
+CALHM1	All SNV	4	0.1792207792207792	285	148	Figure5.png digitization; approximate; not raw ESM
+CALHM2	All SNV	5	0.1792207792207792	285	168	Figure5.png digitization; approximate; not raw ESM
+CALHM5	All SNV	6	0.2088311688311688	266	189	Figure5.png digitization; approximate; not raw ESM
+CALHM6	All SNV	7	0.2384415584415584	247	210	Figure5.png digitization; approximate; not raw ESM
+GJD4	All SNV	8	0.2384415584415584	247	230	Figure5.png digitization; approximate; not raw ESM
+GJC3	All SNV	9	0.254025974025974	237	251	Figure5.png digitization; approximate; not raw ESM
+PANX3	All SNV	10	0.2571428571428571	235	272	Figure5.png digitization; approximate; not raw ESM
+GJA10	All SNV	11	0.2961038961038961	210	292	Figure5.png digitization; approximate; not raw ESM
+GJA9	All SNV	12	0.3179220779220779	196	313	Figure5.png digitization; approximate; not raw ESM
+GJA1	All SNV	13	0.3366233766233766	184	334	Figure5.png digitization; approximate; not raw ESM
+GJA5	All SNV	14	0.3724675324675325	161	354	Figure5.png digitization; approximate; not raw ESM
+GJA8	All SNV	15	0.3880519480519481	151	375	Figure5.png digitization; approximate; not raw ESM
+GJD3	All SNV	16	0.3880519480519481	151	396	Figure5.png digitization; approximate; not raw ESM
+GJB5	All SNV	17	0.3880519480519481	151	416	Figure5.png digitization; approximate; not raw ESM
+GJC1	All SNV	18	0.4036363636363636	141	437	Figure5.png digitization; approximate; not raw ESM
+GJA3	All SNV	19	0.4051948051948052	140	458	Figure5.png digitization; approximate; not raw ESM
+GJB1	All SNV	20	0.412987012987013	135	478	Figure5.png digitization; approximate; not raw ESM
+GJD2	All SNV	21	0.4223376623376623	129	499	Figure5.png digitization; approximate; not raw ESM
+GJA4	All SNV	22	0.4285714285714285	125	520	Figure5.png digitization; approximate; not raw ESM
+PANX1	All SNV	23	0.4301298701298701	124	540	Figure5.png digitization; approximate; not raw ESM
+GJC2	All SNV	24	0.4348051948051948	121	561	Figure5.png digitization; approximate; not raw ESM
+GJB6	All SNV	25	0.4425974025974026	116	582	Figure5.png digitization; approximate; not raw ESM
+GJB3	All SNV	26	0.4488311688311688	112	602	Figure5.png digitization; approximate; not raw ESM
+GJB7	All SNV	27	0.4488311688311688	112	623	Figure5.png digitization; approximate; not raw ESM
+GJB4	All SNV	28	0.4877922077922077	87	644	Figure5.png digitization; approximate; not raw ESM
+GJB2	All SNV	29	0.5376623376623376	55	664	Figure5.png digitization; approximate; not raw ESM
+GJE1	ROS	0	0.0997402597402597	336	73	Figure5.png digitization; approximate; not raw ESM
+PANX2	ROS	1	0.0857142857142857	345	94	Figure5.png digitization; approximate; not raw ESM
+CALHM4	ROS	2	0.2290909090909091	253	115	Figure5.png digitization; approximate; not raw ESM
+CALHM3	ROS	3	0.1527272727272727	302	135	Figure5.png digitization; approximate; not raw ESM
+CALHM1	ROS	4	0.1823376623376623	283	156	Figure5.png digitization; approximate; not raw ESM
+CALHM2	ROS	5	0.1402597402597402	310	177	Figure5.png digitization; approximate; not raw ESM
+CALHM5	ROS	6	0.187012987012987	280	197	Figure5.png digitization; approximate; not raw ESM
+CALHM6	ROS	7	0.2259740259740259	255	218	Figure5.png digitization; approximate; not raw ESM
+GJD4	ROS	8	0.1854545454545454	281	239	Figure5.png digitization; approximate; not raw ESM
+GJC3	ROS	9	0.2088311688311688	266	259	Figure5.png digitization; approximate; not raw ESM
+PANX3	ROS	10	0.282077922077922	219	280	Figure5.png digitization; approximate; not raw ESM
+GJA10	ROS	11	0.2446753246753246	243	301	Figure5.png digitization; approximate; not raw ESM
+GJA9	ROS	12	0.2789610389610389	221	321	Figure5.png digitization; approximate; not raw ESM
+GJA1	ROS	13	0.2711688311688311	226	342	Figure5.png digitization; approximate; not raw ESM
+GJA5	ROS	14	0.2945454545454545	211	363	Figure5.png digitization; approximate; not raw ESM
+GJA8	ROS	15	0.2618181818181818	232	383	Figure5.png digitization; approximate; not raw ESM
+GJD3	ROS	16	0.2867532467532467	216	404	Figure5.png digitization; approximate; not raw ESM
+GJB5	ROS	17	0.2961038961038961	210	425	Figure5.png digitization; approximate; not raw ESM
+GJC1	ROS	18	0.3007792207792207	207	445	Figure5.png digitization; approximate; not raw ESM
+GJA3	ROS	19	0.2368831168831169	248	466	Figure5.png digitization; approximate; not raw ESM
+GJB1	ROS	20	0.2711688311688311	226	487	Figure5.png digitization; approximate; not raw ESM
+GJD2	ROS	21	0.3070129870129869	203	507	Figure5.png digitization; approximate; not raw ESM
+GJA4	ROS	22	0.2789610389610389	221	528	Figure5.png digitization; approximate; not raw ESM
+PANX1	ROS	23	0.3849350649350649	153	549	Figure5.png digitization; approximate; not raw ESM
+GJC2	ROS	24	0.3085714285714285	202	569	Figure5.png digitization; approximate; not raw ESM
+GJB6	ROS	25	0.3787012987012986	157	590	Figure5.png digitization; approximate; not raw ESM
+GJB3	ROS	26	0.2992207792207791	208	611	Figure5.png digitization; approximate; not raw ESM
+GJB7	ROS	27	0.3989610389610389	144	631	Figure5.png digitization; approximate; not raw ESM
+GJB4	ROS	28	0.3787012987012986	157	652	Figure5.png digitization; approximate; not raw ESM
+GJB2	ROS	29	0.4566233766233766	107	673	Figure5.png digitization; approximate; not raw ESM

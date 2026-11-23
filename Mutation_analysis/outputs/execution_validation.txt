@@ -1,0 +1,1 @@
+All code cells executed in order in a clean Python namespace using the bundled snapshot data. Jupyter TCP kernel startup is restricted in the build environment; this validation uses sequential Python execution. No ESM inference was executed.

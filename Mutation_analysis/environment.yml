@@ -1,0 +1,15 @@
+name: lpc_esm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - biopython
+  - requests
+  - jupyterlab
+  - nbconvert
+  - nbclient
+  - ipykernel

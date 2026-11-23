@@ -1,0 +1,6 @@
+figure	analysis	n	rho	p_two_sided	x_source
+S5	primary	30	-0.0002226428372737796	0.999068354039034	historical digitized Figure 5 All SNV fractions
+S7	primary	29	-0.39398432867673827	0.03445285884779461	historical digitized Figure 5 All SNV fractions
+S7	all_30	30	-0.2678691312415883	0.1523888813733636	historical digitized Figure 5 All SNV fractions
+S7	length_normalized_29	29	-0.06951808331490868	0.7200941486233204	historical digitized Figure 5 All SNV fractions
+S7	partial_rank_protein_length_29_approximate_t_test	29	-0.18539018020174433	0.34491959357890645	historical digitized Figure 5 All SNV fractions

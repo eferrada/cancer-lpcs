@@ -1,0 +1,52 @@
+{
+  "matched_samples": 6891,
+  "mutation_phenotype_missing": 0,
+  "explicit_model_samples": 331,
+  "phenotype_disagreement_rows": 0,
+  "scope_totals": {
+    "all_samples": {
+      "n_annotation_rows": 22276,
+      "n_unique_variants": 8952,
+      "n_sample_variant_pairs": 12037,
+      "n_mutated_samples": 6891,
+      "n_samples_type_unspecified": 3414
+    },
+    "excluding_explicit_models": {
+      "n_annotation_rows": 21089,
+      "n_unique_variants": 8628,
+      "n_sample_variant_pairs": 11395,
+      "n_mutated_samples": 6560,
+      "n_samples_type_unspecified": 3414
+    },
+    "confirmed_somatic_excluding_explicit_models": {
+      "n_annotation_rows": 19371,
+      "n_unique_variants": 7980,
+      "n_sample_variant_pairs": 10432,
+      "n_mutated_samples": 6076,
+      "n_samples_type_unspecified": 3377
+    }
+  },
+  "mapped_totals": {
+    "all_samples": {
+      "n_annotation_rows": 16505,
+      "n_unique_variants": 6988,
+      "n_sample_variant_pairs": 8964,
+      "n_mutated_samples": 5016,
+      "n_samples_type_unspecified": 2502
+    },
+    "excluding_explicit_models": {
+      "n_annotation_rows": 15758,
+      "n_unique_variants": 6756,
+      "n_sample_variant_pairs": 8578,
+      "n_mutated_samples": 4814,
+      "n_samples_type_unspecified": 2502
+    },
+    "confirmed_somatic_excluding_explicit_models": {
+      "n_annotation_rows": 14422,
+      "n_unique_variants": 6198,
+      "n_sample_variant_pairs": 7838,
+      "n_mutated_samples": 4466,
+      "n_samples_type_unspecified": 2486
+    }
+  }
+}

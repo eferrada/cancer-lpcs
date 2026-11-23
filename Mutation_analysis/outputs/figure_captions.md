@@ -1,0 +1,11 @@
+## Figure5
+Predicted pathogenic/deleterious fractions for 30 LPC genes. All SNV represents unique SNV-accessible amino-acid outcomes with ESM1b scores; legacy ROS represents events from the 11 declared triplet replacements, with synonymous events neutral and stop gains deleterious. Missense events are classified at ESM1b LLR ≤ −7.5. Genes are ordered by All SNV fraction. Solid/dotted lines show control mean/interval positions where available. In snapshot mode bars and lines are approximate digitizations; raw control data are unavailable. In recompute mode the control table and explicit CI setting determine the lines.
+
+## S5
+COSMIC mutation observations normalized by full genomic gene span versus the All SNV pathogenic fraction. Each point is one gene; colours show archived canonical protein length in amino acids. The dashed OLS line is descriptive; the annotation reports a two-sided Spearman test across 30 genes. Historical x values were digitized from Figure 5. Counts include all retained mutation consequences and are not adjusted for tissue sample size or callable sequence.
+
+## S6
+COSMIC v104 somatic mutation observations in 30 LPC genes across 12 cancer tissue categories. Panel A shows tissue totals; panel B shows gene-by-tissue sample–variant counts, with logarithmic colour scaling after adding one. Confirmed somatic annotations are retained and explicitly labelled experimental models excluded; unspecified specimen types remain. Repeated transcript annotations collapse by sample and genomic variant. Brain and uterus use the operational categories described in Methods. Zeros indicate no eligible record in the archived export, not proof of absence.
+
+## S7
+Distinct PASS exome missense SNV counts in gnomAD versus the All SNV pathogenic fraction. Each allele is counted once within the selected transcript CDS, across all allele frequencies; counts are not carrier counts or normalized by protein length. Colours show canonical protein length in amino acids. GJE1 is a gray cross, excluded from the primary 29-gene fit/test because of archived coverage/outlier flags. The dashed line is descriptive OLS; the annotation gives the nominal two-sided Spearman test. The all-30 sensitivity and length-based analyses are exported separately.
